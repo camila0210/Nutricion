@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\bin\Debug\Area_Nutricion.exe.config
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\bin\Debug\Area_Nutricion.exe
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\bin\Debug\Area_Nutricion.pdb
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Properties.Resources.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.csproj.GenerateResource.cache
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.exe
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.pdb
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Ingreso.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Registro.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Resultados.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Consulta2.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Consulta3.resources
+C:\Users\PERSONAL\source\repos\Area_Nutricion\Area_Nutricion\obj\Debug\Area_Nutricion.Migrantes.resources
